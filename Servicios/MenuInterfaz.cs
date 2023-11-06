@@ -20,7 +20,7 @@ namespace CajeroMenuC.Servicios
         public void mostrarMensajeBienvenida();
         /// <summary>
         /// metodo qyue muetra el menu y recoge la seleccion del usuario
-        /// 260923
+        /// 260923-amd
         /// </summary>
         /// <returns></un entro con la opcion selecionada </returns>
         public int mostrarMenuYSeleccion();
